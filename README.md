@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="left">🧰 I Code With</h2>
+<h2 align="left">🧰 Programming Languages and Tools</h2>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
