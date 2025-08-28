@@ -67,7 +67,7 @@
   <a href="https://linkedin.com/in/humanshu-ise" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.codechef.com/users/whomanshu" target="_blank">
+  <a href="https://www.codechef.com/users/humanshu1745" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://codeforces.com/profile/humanshui" target="_blank">
