@@ -8,7 +8,8 @@
 <p align="left">
 🌱 I’m currently learning: Docker, Redis, FastAPI, and WebSockets<br><br>
 🧠 Sharpening my DSA problem-solving skills in C++<br><br>
-📫 How to reach me: <strong>humanshu1745@gmail.com</strong>
+📫 How to reach me: <strong><a href="mailto:humanshu1745@gmail.com">humanshu1745@gmail.com</a>
+</strong>
 </p>
 
 ---
